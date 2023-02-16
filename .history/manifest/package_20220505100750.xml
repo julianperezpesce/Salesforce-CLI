@@ -30,14 +30,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Flow</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>StaticResource</name>
     </types>
     <version>54.0</version>

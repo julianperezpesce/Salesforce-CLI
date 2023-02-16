@@ -30,11 +30,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>ListView</name>
+        <name>ListViews</name>
     </types>
     <types>
         <members>*</members>
-        <name>Flow</name>
+        <name>Flows</name>
     </types>
     <types>
         <members>*</members>
